@@ -1,0 +1,30 @@
+.noteCard:hover {
+  background-color: #f1f5fd;
+}
+.noteCard:hover .icon {
+  background-color: white;
+}
+
+.noteCard {
+  overflow-x: hidden;
+}
+.icon {
+  font-size: 25px;
+  border-radius: 20px;
+  background-color: #f1f5fd;
+  width: 38px;
+  height: 40px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+.faIcon {
+  color: blue;
+}
+
+@media screen and (max-width: 600px) {
+  .try {
+    text-align: center;
+  }
+}

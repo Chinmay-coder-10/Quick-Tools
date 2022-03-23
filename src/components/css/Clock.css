@@ -1,0 +1,16 @@
+.clock h1{
+    font-size: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.clock{
+    display: flex;
+    justify-content: center;
+}
+
+.clockItems{
+    display: flex;
+    justify-content: center;
+}

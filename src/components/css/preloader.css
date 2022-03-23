@@ -1,0 +1,12 @@
+#bar {
+  position: absolute;
+  width: 0%;
+  height: 3.5px;
+  top: 0;
+  left: 0;
+  z-index: 9;
+  /* background: #ff8100; */
+  transition: all 0.3s linear;
+}
+
+

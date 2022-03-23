@@ -1,0 +1,6 @@
+.error{
+    background-color: red;
+    height: 5vh;
+    width: 25vw;
+    box-shadow: 0 0.5rem 2rem 2rem rgba(red, green, blue, alpha);
+}

@@ -1,0 +1,27 @@
+.mainDiv{
+
+  height: 55vh;
+  width: 100vw;
+  background-color: #e9ecef;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.home{
+  overflow-x: hidden;
+}
+.mainDiv .heading{
+  font-size: 3.5rem;
+}
+
+@media screen and (max-width: 600px){
+  .heading{
+      font-size: 4rem!important;
+      text-align: center;
+  }
+  .desc{
+      text-align: center;
+  }
+}
